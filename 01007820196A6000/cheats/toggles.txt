@@ -1,0 +1,4 @@
+[60FPS]
+false
+[30FPS]
+false
